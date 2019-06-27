@@ -1,5 +1,7 @@
 # Go Fork Yourself
 
+### How to copy a local repo and make a new GitHub repo from it.
+
 * Copy the local repo. Note that you should probably rename the directory while copying it, and that you should be moving it from wherever it was into the correct term/week directory!
 
     ```bash
