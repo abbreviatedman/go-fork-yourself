@@ -21,5 +21,5 @@
     ```bash
     git push -u origin master
     ```
-
+---
 And you're done!
